@@ -1,1 +1,3 @@
-This is a basic Python script that performs a scan of open ports on a given target IP address. The script allows users to specify the target IP and the range of ports to scan. It can be useful for identifying open services on a network during network analysis or security assessments.
+Simple Python Port Scanner
+
+This is a simple Python script designed to scan open ports on a given target host. It works by iterating through a specified range of ports and checking their status (open or closed) by attempting to establish a connection.
