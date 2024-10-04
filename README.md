@@ -1,0 +1,1 @@
+This is a basic Python script that performs a scan of open ports on a given target IP address. The script allows users to specify the target IP and the range of ports to scan. It can be useful for identifying open services on a network during network analysis or security assessments.
